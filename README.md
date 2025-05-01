@@ -108,8 +108,8 @@ Attester Nodes validate task execution through the Validation Service. Based on 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Othentic-Labs/simple-price-oracle-avs-example.git
-   cd simple-price-oracle-avs-example
+   git clone https://github.com/Othentic-Labs/leaderless-auction-avs-example.git
+   cd leaderless-auction-avs-example
    ```
 
 2. Install Othentic CLI:
