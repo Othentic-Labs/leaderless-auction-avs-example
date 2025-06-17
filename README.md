@@ -78,7 +78,7 @@ Each node:
 Sends a task to the internal /task/execute endpoint to fetch price data and push it to IPFS.
 
 
-### [Custom Messaging](https://docs.othentic.xyz/main/avs-framework/othentic-cli/p2p-config/custom-p2p-messaging)
+### [Custom Messaging](https://docs.othentic.xyz/main/learn/advanced-concepts/p2p-networking/custom-messaging)
 All messages are hex-encoded JSON and published via the sendCustomMessage RPC method.
 
 Example payload:
@@ -120,7 +120,7 @@ Attester Nodes validate task execution through the Validation Service. Based on 
 
 ## Usage
 
-- Follow the steps in the official documentation's [Quickstart](https://docs.othentic.xyz/main/avs-framework/quick-start#steps) Guide for setup and deployment.
+- Follow the steps in the official documentation's [Quickstart](https://docs.othentic.xyz/main/welcome/getting-started/install-othentic-cli) Guide for setup and deployment.
 - Call auction start:
 ```
 curl -X POST http://localhost:4003/task/elect
