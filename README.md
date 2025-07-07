@@ -115,7 +115,8 @@ Attester Nodes validate task execution through the Validation Service. Based on 
 2. Install Othentic CLI:
 
    ```bash
-   npm i -g @othentic/othentic-cli
+   npm i -g @othentic/cli
+   npm i -g @othentic/node
    ```
 
 ## Usage
